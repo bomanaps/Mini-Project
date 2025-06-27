@@ -5,6 +5,11 @@ This is a minimal Streamlit dashboard that visualizes real-time cUSD balance dis
 
 ---
 
+
+https://github.com/user-attachments/assets/576d43a6-e80b-4dde-82e8-5a31bfd09f20
+
+
+
 ## 🔍 Features
 
 - View the **total cUSD balance** across tracked accounts.
